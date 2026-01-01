@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently: Computer Science undergraduate at Madhav Institute of Technology & Science, Gwalior<br>👯 Collaborate on: Machine Learning, data science, and real-world prediction projects<br>🤝 Help with: Improving ML models, evaluation, and project structuring<br>🌱 Learning: Machine learning, LSTM, time series analysis, and core CS fundamentals<br>💬 Ask me about: Python, C/C++, ML basics, and time-series datasets<br>⚡ Fun fact: I break models for learning and fix them for fun.
+🔭 Currently: Computer Science undergraduate at Madhav Institute of Technology & Science, Gwalior<br>👯 Collaborate on: Machine Learning, data science, and real-world prediction projects<br>🤝 Help with: Improving ML models, evaluation, and project structuring<br>🌱 Learning: Machine learning, LSTM, time series analysis, and core CS fundamentals<br>💬 Ask me about: Python, C/C++, ML basics, and time-series datasets<br>
 
 
 ## 🌐 Socials:
