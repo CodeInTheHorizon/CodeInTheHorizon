@@ -1,9 +1,12 @@
 # Kshitij kumar soni
 🔭 Currently: Computer Science undergraduate at Madhav Institute of Technology & Science, Gwalior<br>
 
+## Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/codeinthehorizon)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kshitijkumarsoni30@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=githubpages&logoColor=white)](https://codeinthehorizon.github.io/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/CodeInTheHorizon)
 
-## Connect me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/codeinthehorizon)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kshitijkumarsoni30@gmail.com)  [![Kshitij](https://img.shields.io/badge/url-D14836?logo=kshitij&logoColor=blue)](connect:[https://CodeInTheHorizon](https://codeinthehorizon.github.io/)) 
 
 
 # Tech Stack:
